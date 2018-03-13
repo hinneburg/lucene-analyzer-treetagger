@@ -1,0 +1,20 @@
+# lucene-analyzer-treetagger
+src/test/resources/treetagger-path.local.properties
+
+# Eclipse
+.project
+*.classpath
+*.settings
+
+# Intellij
+.idea/
+*.iml
+*.iws
+
+# Maven
+target/
+etc/
+log/
+
+# Mac
+.DS_Store
